@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Calculator"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Translator", "RomanExpression.Translator\RomanExpression.Translator.csproj", "{95FA2CAF-5D53-48C8-972B-470FC5814AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.ConsoleApp", "RomanExpression.ConsoleApp\RomanExpression.ConsoleApp.csproj", "{FC429543-224B-4A19-A457-855B68C80CE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Application", "RomanExpression.Application\RomanExpression.Application.csproj", "{FC429543-224B-4A19-A457-855B68C80CE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
