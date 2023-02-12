@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Translator"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Application", "RomanExpression.Application\RomanExpression.Application.csproj", "{FC429543-224B-4A19-A457-855B68C80CE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Translator.Tests", "RomanExpression.Translator.Tests\RomanExpression.Translator.Tests.csproj", "{87876EB2-048E-4F67-A5A6-C41BF3B0B5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Calculator.Tests", "RomanExpression.Calculator.Tests\RomanExpression.Calculator.Tests.csproj", "{4A0EB257-C5CA-492B-89F1-E058861B4A10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{FC429543-224B-4A19-A457-855B68C80CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC429543-224B-4A19-A457-855B68C80CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC429543-224B-4A19-A457-855B68C80CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87876EB2-048E-4F67-A5A6-C41BF3B0B5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87876EB2-048E-4F67-A5A6-C41BF3B0B5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87876EB2-048E-4F67-A5A6-C41BF3B0B5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87876EB2-048E-4F67-A5A6-C41BF3B0B5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0EB257-C5CA-492B-89F1-E058861B4A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0EB257-C5CA-492B-89F1-E058861B4A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0EB257-C5CA-492B-89F1-E058861B4A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0EB257-C5CA-492B-89F1-E058861B4A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

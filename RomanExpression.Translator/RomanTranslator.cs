@@ -93,7 +93,7 @@ public sealed class RomanTranslator : ITranslator
             do
             {
                 --i;
-            } while (char.IsLetter(text[i]));
+            } while (i >= 0 && char.IsLetter(text[i]));
 
             var start = i + 1;
 
