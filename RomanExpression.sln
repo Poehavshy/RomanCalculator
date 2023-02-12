@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanCalculator", "RomanCalculator\RomanCalculator.csproj", "{D81A9421-BFBA-470F-984E-AD6DC5CC1D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Calculator", "RomanExpression.Calculator\RomanExpression.Calculator.csproj", "{D81A9421-BFBA-470F-984E-AD6DC5CC1D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanTranslator", "RomanTranslator\RomanTranslator.csproj", "{95FA2CAF-5D53-48C8-972B-470FC5814AB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.Translator", "RomanExpression.Translator\RomanExpression.Translator.csproj", "{95FA2CAF-5D53-48C8-972B-470FC5814AB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{FC429543-224B-4A19-A457-855B68C80CE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanExpression.ConsoleApp", "RomanExpression.ConsoleApp\RomanExpression.ConsoleApp.csproj", "{FC429543-224B-4A19-A457-855B68C80CE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
